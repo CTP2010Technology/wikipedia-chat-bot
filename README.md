@@ -17,4 +17,5 @@ This project is an advanced Python-based chatbot that retrieves information from
 Instructions for installing and setting up the project. This typically includes:
 
 ```bash
-1. ** Clone the repository:** git clone https://github.com/CTP2010Technology/wikipedia-chat-bot.git cd repository
+1. ** Clone the repository:** git clone https://github.com/CTP2010Technology/wikipedia-chat-bot.git
+cd repository
