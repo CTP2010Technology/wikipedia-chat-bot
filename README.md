@@ -18,4 +18,4 @@ Instructions for installing and setting up the project. This typically includes:
 
 ```bash
 1. ** Clone the repository:** git clone https://github.com/CTP2010Technology/wikipedia-chat-bot.git
-cd wikipedia\ chat\ bot
+cd wikipedia-chat-bot
